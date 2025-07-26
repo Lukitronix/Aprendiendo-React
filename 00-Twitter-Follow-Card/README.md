@@ -1,12 +1,47 @@
-# React + Vite
+# 🐦 Twitter Follow Card - Proyecto 00
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es el primer proyecto del curso de React de [Midudev](https://www.youtube.com/watch?v=7iobxzd_2wY).  
+Se trata de una tarjeta interactiva que simula el botón de seguir de Twitter, hecha con **React** y **Vite**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Funcionalidad
 
-## Expanding the ESLint configuration
+- Muestra un perfil de usuario con su avatar, nombre y nombre de usuario.
+- Cambia dinámicamente el estado entre **“Seguir”** y **“Siguiendo”** al hacer clic.
+- Añade efecto hover cuando el usuario ya está siendo seguido.
+- Componente reutilizable: permite pasar datos por `props`.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📦 Tecnologías usadas
+
+- 🧪 React (con JSX y hooks)
+- ⚡ Vite (como bundler y servidor de desarrollo)
+- 🎨 CSS Modules (estilos encapsulados)
+
+---
+
+## 🚀 Cómo ejecutarlo
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/Lukitronix/Aprendiendo-React.git
+   cd Aprendiendo-React/00-twitter-follow-card
+
+---
+
+## 🧑‍💻 Portfolio y redes
+
+> Si te interesa mi trabajo o quieres ver otros proyectos, puedes visitar mi portfolio o seguirme en redes:
+
+- Portfolio: [gueepard.com](https://gueepard.com)
+- GitHub: [@lukitronix](https://github.com/lukitronix)
+- Twitter/X: [@lukitronix](https://x.com/lukitronix)
+- LinkedIn: [lukitronix](https://www.linkedin.com/in/lucas-mu%C3%B1oz-bonneau-8a6333332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+---
+
+## 📄 Licencia
+
+Este proyecto es de uso personal para fines educativos. Los derechos del curso pertenecen a [Midudev](https://midu.dev). El código aquí publicado es una interpretación propia con propósitos de aprendizaje.
