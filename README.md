@@ -9,7 +9,7 @@ Curso creado por [midudev](https://www.youtube.com/watch?v=7iobxzd_2wY) en su ca
 
 | Número | Proyecto | Código | Web |
 |--------|----------|--------|-----|
-| `00` | Setup inicial y pruebas | [Ver](00-twitter-follow-card/) | [Visitar](https://LKTX-react-00.surge.sh) |
+| `00` | Setup inicial y pruebas | [Ver](00-Twitter-Follow-Card) | [Visitar](https://LKTX-react-00.surge.sh) |
 <!--
 | `01` | Twitter Follow Card | [Ver](01-twitter-follow-card/) | [Visitar](https://LKTX-react-01.surge.sh) |
 | `02` | Tic Tac Toe | [Ver](02-tic-tac-toe/) | [Visitar](https://LKTX-react-02.surge.sh) |
@@ -57,8 +57,8 @@ Mi objetivo es aprender React de forma práctica, dominando conceptos como:
 
 - Portfolio: [gueepard.com](https://gueepard.com)
 - GitHub: [@lukitronix](https://github.com/lukitronix)
-- Twitter/X: [@lukitronix](https://twitter.com/lukitronix)
-- LinkedIn: [lukitronix](https://linkedin.com/in/lukitronix)
+- Twitter/X: [@lukitronix](https://x.com/lukitronix)
+- LinkedIn: [lukitronix](https://www.linkedin.com/in/lucas-mu%C3%B1oz-bonneau-8a6333332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
 
